@@ -1,0 +1,7 @@
+wgpu
+
+rendercanvas[glfw]
+
+numpy
+
+pillow
